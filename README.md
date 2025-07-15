@@ -1,5 +1,5 @@
 <h1 align="center">Heydar Rabbaniha</h1>
-<h3 align="center">Full-stack Web Developer | Node.js, React, TypeScript Enthusiast</h3>
+<h3 align="center">Full-Stack Web Developer | Node.js, React & TypeScript Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Passionate+about+Modern+Web+Technologies;Always+Learning+and+Improving" alt="Typing SVG" />
@@ -7,15 +7,15 @@
 
 ---
 
-### 👨‍💻 درباره من
+### 👋 About Me
 
-سلام! من **حیدر ربانی‌ها** هستم، یک توسعه‌دهنده‌ی جوان و پرتلاش با علاقه‌ی عمیق به دنیای وب مدرن. عاشق ساختن اپلیکیشن‌های قدرتمند با Node.js و React هستم، و همیشه دنبال فرصت‌هایی برای یادگیری بیشتر و توسعه‌ی مهارت‌هایم در حوزه‌ی فول‌استک هستم.
+I'm **Heydar Rabbaniha**, a passionate full-stack developer with a strong foundation in building web applications using modern technologies. I enjoy crafting clean, scalable solutions using **Node.js**, **React**, and **TypeScript** and constantly seek to improve and learn new tools in the ecosystem.
 
-🎯 در حال حاضر به دنبال فرصت‌های شغلی در حوزه توسعه وب هستم (از راه دور یا حضوری)
+🎯 Currently open to job opportunities and freelance projects!
 
 ---
 
-### 🚀 تکنولوژی‌هایی که کار کردم:
+### ⚙️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -31,54 +31,73 @@
 
 ---
 
-### 📊 آمار گیت‌هاب من
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbaniha&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbaniha&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbaniha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rabbaniha&theme=radical&column=7&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-### 📫 ارتباط با من
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbaniha&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbaniha&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbaniha&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌍 GitHub Contribution Map
+
+<p align="center">
+  <img src="https://github.com/rabbaniha/rabbaniha/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+### 🛠️ Projects
+
+> These are private or under development, but feel free to reach out for demos or collaboration.
+
+#### 📁 User Management Dashboard (Private)
+- **Stack:** Node.js, Express, React, MongoDB, TailwindCSS
+- **Description:** A secure full-stack authentication and role-based dashboard for managing users and content.
+- **Status:** In progress
+
+#### 📁 Portfolio CMS (Private)
+- **Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Docker
+- **Description:** A minimal content management system built for personal portfolios and blogging with SEO optimization.
+- **Status:** Completed, private for now.
+
+---
+
+### ✍️ Quote
+
+> “Stay hungry, stay foolish.” — *Steve Jobs*
+
+---
+
+### 📫 Contact Me
 
 <p>
-  <b>📧 ایمیل:</b> your.email@example.com<br>
-  <b>💼 لینکدین:</b> [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)<br>
-  <b>📱 تلگرام:</b> [t.me/yourtelegram](https://t.me/yourtelegram)<br>
-  <b>📞 شماره تماس:</b> 09xxxxxxxxx
+  <b>📧 Email (Primary):</b> hrrabbaniha@gmail.com  
+  <br>
+  <b>📧 Email (Secondary):</b> heydar91@yahoo.com  
+  <br>
+  <b>🔗 LinkedIn:</b> <a href="https://www.linkedin.com/in/heydar-rabbaniha-a23213282">linkedin.com/in/heydar-rabbaniha</a>
+  <br>
+  <b>💬 Telegram:</b> [Your Telegram Handle Here] <!-- Replace when ready -->
 </p>
 
 ---
-
-### ✨ نقل قول مورد علاقه
-
-> "Stay hungry, stay foolish." — Steve Jobs
-
----
-
-### 🧠 در حال یادگیری
-
-- توسعه اپلیکیشن‌های وب مقیاس‌پذیر
-- اصول Clean Code و تست‌نویسی
-- مهارت‌های DevOps و Dockerizing پروژه‌ها
-
----
-
-### 💼 پروژه‌های من (در حال ساخت...)
-
-*به‌زودی پروژه‌های برجسته‌ام رو به اشتراک می‌ذارم...*
-
----
-
-### ❤️ تشکر از بازدیدت!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rabbaniha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
