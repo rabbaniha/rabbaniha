@@ -34,7 +34,7 @@ I'm **Heydar Rabbaniha**, a passionate full-stack developer with a strong founda
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rabbaniha&theme=radical&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rabbaniha&theme=radical&column=7&margin-w=10&margin-h=10&count_private=true" />
 </p>
 
 ---
@@ -42,15 +42,15 @@ I'm **Heydar Rabbaniha**, a passionate full-stack developer with a strong founda
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbaniha&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbaniha&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbaniha&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbaniha&theme=radical&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbaniha&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbaniha&layout=compact&theme=radical&count_private=true" />
 </p>
 
 ---
