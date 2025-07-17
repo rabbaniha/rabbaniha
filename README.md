@@ -53,6 +53,11 @@ I'm **Heydar Rabbaniha**, a passionate full-stack developer with a strong founda
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbaniha&layout=compact&theme=radical&count_private=true" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rabbaniha/rabbaniha/main/stats.svg" />
+</p>
+
+
 ---
 
 ### 🌍 GitHub Contribution Map
