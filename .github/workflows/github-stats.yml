@@ -1,0 +1,41 @@
+name: Generate GitHub Stats Card
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 1 * * *" # every day at 1am UTC
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone GitHub Readme Stats
+        uses: actions/checkout@v3
+        with:
+          repository: anuraghazra/github-readme-stats
+          path: github-readme-stats
+
+      - name: Build stats card
+        run: |
+          cd github-readme-stats
+          npm install
+          npm run build
+
+      - name: Generate image
+        run: |
+          curl "http://localhost:9000/api?username=rabbaniha&count_private=true&show_icons=true&theme=radical" > stats.svg
+
+      - name: Commit stats image
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add stats.svg || true
+          git commit -m "Update stats.svg" || true
+          git push || true
+
+      - name: Upload as artifact (optional)
+        uses: actions/upload-artifact@v3
+        with:
+          name: github-stats
+          path: stats.svg
